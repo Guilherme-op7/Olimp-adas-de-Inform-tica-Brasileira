@@ -1,11 +1,11 @@
 
 # 🏅 Desafios da Olimpíada Brasileira de Informática (OBI) - Guilherme Neto
 
-![OBI Banner](https://olimpiada.ic.unicamp.br/img/obi_logo.png)
+
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém todas as minhas soluções para os desafios da **Olimpíada Brasileira de Informática (OBI)**, propostos na missão de código da escola.
+Este repositório contém todas as minhas soluções para os desafios da **Olimpíada Brasileira de Informática (OBI)**, propostos na missão de código do curso, pelo professor Bruno.
 
 Foram resolvidos **TODOS os 22 exercícios obrigatórios** e também os **5 desafios extras**, utilizando **JavaScript com funções**, seguindo boas práticas de programação.
 
@@ -13,7 +13,7 @@ Foram resolvidos **TODOS os 22 exercícios obrigatórios** e também os **5 desa
 
 ## 📚 Lista de Exercícios Resolvidos
 
-### ✅ Exercícios Obrigatórios (100 pontos)
+### ✅ Exercícios Obrigatórios
 
 | Nº | Nome do Desafio | Link para o problema |
 |---|---|---|
@@ -77,4 +77,4 @@ Foram resolvidos **TODOS os 22 exercícios obrigatórios** e também os **5 desa
 
 ✅ Todos os exercícios foram feitos com atenção às boas práticas de código.  
 ✅ Testados com diferentes casos de entrada.  
-✅ Todos utilizando funções conforme solicitado no desafio.
+✅ Todos utilizando funções conforme pedido no desafio.
